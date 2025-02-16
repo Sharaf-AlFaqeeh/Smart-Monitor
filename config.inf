@@ -1,0 +1,20 @@
+[EMAIL]
+EMAIL_SENDER =Your_email_address
+EMAIL_PASSWORD =Your_email_password
+EMAIL_RECEIVER =email_that_you_will_send_notifications_to
+
+[TELEGRAM]
+BOT_TOKEN =Token_of_telegram_bot
+CHAT_ID =chat_id_of_your_telegram_account
+
+[SMS]
+TWILIO_SID_PRE =your_sid_from_toiliw
+TWILIO_AUTH_TOKEN_PRE =auth_token_of_your_toiliw_account
+TWILIO_PHONE_NUMBER_PRE =your_toiliw_account_number
+RECEIVER_PHONE_NUMBER = Your_phone_number_to_receive_sms
+
+[Gemini]
+GEMINI_API_KEY =Gemini_api_key
+
+[DeepSeek]
+DEEPSEEK_API_KEY = DeepSeek_api_key
